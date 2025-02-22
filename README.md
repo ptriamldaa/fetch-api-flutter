@@ -12,4 +12,4 @@
 </p>
 
 ## Hasil Bentuk Video
-[Lihat Video](https://drive.google.com/file/d/1r2DakTQHBu5lNiVY4Mhwg3f716HaAcs0/view?usp=drive_link)  
+[Lihat Video](https://drive.google.com/file/d/1YiBENYXS1rcVibab9Oj6mANJPh2O-Yp9/view?usp=sharing)  
