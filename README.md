@@ -6,9 +6,9 @@
 
 ## Hasil Bentuk Screenshot
 <p align="center">
-  <img src="https://i.imgur.com/7Lfz4ui.png" width="30%" />
-  <img src="https://i.imgur.com/HMDGMkE.png" width="30%" />
-  <img src="https://i.imgur.com/4eqKDpV.png" width="30%" />
+  <img src="https://i.imgur.com/wQzrcwR.png" width="30%" />
+  <img src="https://i.imgur.com/3zIPVYU.png" width="30%" />
+  <img src="https://i.imgur.com/b1F9nTL.png" width="30%" />
 </p>
 
 ## Hasil Bentuk Video
